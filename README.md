@@ -38,7 +38,7 @@ I build **full-stack AI products** — Next.js on the front, durable job pipelin
 ```ts
 const parmeet = {
   role:     "Full-Stack Developer & AI Engineer",
-  focus:    ["LLM pipelines", "Durable workflows", "Video rendering"],
+  focus:    ["LLM pipelines", "Agentic workflows", "Video rendering"],
   stack:    ["Next.js", "TypeScript", "Python", "PostgreSQL"],
   building: "Migoo — an AI video-creation platform",
   learning: ["RAG at scale", "System design", "DSA"],
@@ -47,7 +47,8 @@ const parmeet = {
 ```
 
 - 🔭 &nbsp;Currently building **[Migoo](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)** — an AI video platform with five production modules, durable Inngest pipelines and Remotion rendering
-- 🧠 &nbsp;Interested in **agentic workflows, RAG, and automated media pipelines**
+- 🧠 &nbsp;Interested in **agentic workflows, RAG, MCP tooling, and automated media pipelines**
+- 🤖 &nbsp;I build with **Claude Code** and **Antigravity** — agent-driven development is how I ship faster
 - 💬 &nbsp;Ask me about **Next.js, TypeScript, Python, or wiring LLMs into real products**
 - 🧩 &nbsp;Sharpening DSA daily on **[LeetCode](https://leetcode.com/u/parmeetsingh1313n/)**
 - 📫 &nbsp;Reach me at **parmeetsingh1313n@gmail.com**
@@ -68,12 +69,27 @@ const parmeet = {
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,prisma,vercel,docker,git&theme=dark" alt="backend" />
 
-**AI & Media**
+**AI Models & Providers**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+**AI Engineering & Agentic Workflows**
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-7B2FF7?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white" />
+
+**Media & Infrastructure**
+
 <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Inngest-4636F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 
