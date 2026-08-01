@@ -1,65 +1,243 @@
+<!-- ══════════════════════ BANNER ══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:FF2D95&height=200&section=header&text=Parmeet%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Product%20Engineer&descAlignY=56&descSize=18" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Parmeet+Singh;Full-Stack+Developer;I+build+AI-powered+products" alt="Typing SVG" />
+<!-- ══════════════════════ TYPEWRITER ══════════════════════ -->
+<a href="https://github.com/parmeetsingh1313n">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Parmeet+Singh;Full-Stack+Developer+%7C+AI+Engineer;I+turn+prompts+into+production+apps;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+LLMs" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ══════════════════════ SOCIALS ══════════════════════ -->
+<a href="https://www.linkedin.com/in/parmeet-singh-13bb6931b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/parmeetsingh1313n/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:parmeetsingh1313n@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=parmeetsingh1313n&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/parmeetsingh1313n?label=Followers&style=flat-square&color=7B2FF7" alt="Followers" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ ABOUT ══════════════════════ -->
+## &nbsp;About Me
+
+I build **full-stack AI products** — Next.js on the front, durable job pipelines and multi-provider LLM orchestration behind it. Most of what I ship starts as *"can a model actually do this end to end?"* and turns into a working app.
+
+```ts
+const parmeet = {
+  role:     "Full-Stack Developer & AI Engineer",
+  focus:    ["LLM pipelines", "Durable workflows", "Video rendering"],
+  stack:    ["Next.js", "TypeScript", "Python", "PostgreSQL"],
+  building: "Migoo — an AI video-creation platform",
+  learning: ["RAG at scale", "System design", "DSA"],
+  motto:    "Ship it, then make it fast.",
+};
+```
+
+- 🔭 &nbsp;Currently building **[Migoo](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)** — an AI video platform with five production modules, durable Inngest pipelines and Remotion rendering
+- 🧠 &nbsp;Interested in **agentic workflows, RAG, and automated media pipelines**
+- 💬 &nbsp;Ask me about **Next.js, TypeScript, Python, or wiring LLMs into real products**
+- 🧩 &nbsp;Sharpening DSA daily on **[LeetCode](https://leetcode.com/u/parmeetsingh1313n/)**
+- 📫 &nbsp;Reach me at **parmeetsingh1313n@gmail.com**
+- ⚡ &nbsp;B.Tech (Hons) Computer Science & Engineering — GLA University
+
+---
+
+<!-- ══════════════════════ TECH STACK ══════════════════════ -->
+## &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,tailwind&theme=dark" alt="languages" />
+
+**Backend, Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,prisma,vercel,docker,git&theme=dark" alt="backend" />
+
+**AI & Media**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Inngest-4636F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 
 </div>
 
 ---
 
-### About
+<!-- ══════════════════════ PROJECTS ══════════════════════ -->
+## &nbsp;Featured Projects
 
-I build full-stack AI products — Next.js on the front, Python and LLM pipelines behind it.
-Most of what I ship starts as "can a model actually do this end to end?" and turns into a working app.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 Currently building an **AI Video Course Generator** — turns a topic into a full narrated video course (script → slides → TTS → rendered video)
-- 🌱 Going deep on **agentic workflows, RAG, and media rendering pipelines**
-- 💬 Ask me about **Next.js, TypeScript, Python, or wiring LLMs into real products**
-- 📫 Reach me at **your.email@example.com**
+### 🎬 Migoo — Describe It. AI Creates It. Ship It.
+
+A full-stack AI video-creation platform with **five production modules**: multi-chapter courses, faceless shorts, chat-driven motion graphics, AI study notes, and a director's-chair studio.
+
+Thin API routes enqueue work; **durable Inngest step-functions** do the minutes-long jobs with retries and per-step memoization; the heaviest renders are pushed to GitHub Actions where Puppeteer + FFmpeg get a real machine.
+
+`Next.js 16` `TypeScript` `Inngest` `Remotion` `Drizzle` `Clerk`
+
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Talk2Hire — AI-Powered Recruiter
+
+An end-to-end recruitment platform that runs **real-time AI interviews** with 3D avatars, parses candidate resumes, and auto-scores each interview.
+
+Combines speech-to-text, LLM-driven questioning and automated evaluation into one hiring flow — with email notifications and a recruiter dashboard.
+
+`Next.js 15` `React 19` `OpenAI` `AssemblyAI` `Supabase` `Three.js`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white)](https://talk2-hire-ai-powered-recruiter-app-nine.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmeetsingh1313n/Talk2Hire---AI-Powered-Recruiter-App)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Mind-Forge — AI Course Generator
+
+Turns a topic, difficulty level and duration into a **fully chaptered course** — AI-generated outline and per-chapter content, matched YouTube lessons, and a publishable course page.
+
+Includes auth, a course explorer, and Razorpay checkout for paid upgrades.
+
+`Next.js` `Gemini 2.0` `Drizzle` `Neon` `Clerk` `Razorpay`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF2D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmeetsingh1313n/Mind-Forge)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Cancer Prediction
+
+A **Streamlit** ML app that predicts breast-cancer diagnosis from cell-nucleus measurements using a decision-tree classifier.
+
+Ships with interactive ROC curves, confusion matrices and feature visualisations so the model's behaviour is inspectable, not a black box.
+
+`Python` `scikit-learn` `Streamlit` `Plotly` `pandas`
+
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/parmeetsingh1313n/Cancer-Prediction)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Tech
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[AI Video Course Generator](https://github.com/parmeetsingh1313n/ai-video-course-generator)** | Generates full narrated video courses from a single topic prompt | Next.js · TypeScript · Appwrite · Neon |
-| **[Talk2Hire](https://github.com/parmeetsingh1313n/Talk2Hire---AI-Powered-Recruiter-App)** | AI recruiter that screens and interviews candidates conversationally | Python · LLMs |
-| **[Migoo.AI](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)** | Describe it, and it creates and ships it | TypeScript |
-| **[IntellView](https://github.com/parmeetsingh1313n/IntellView)** | *(one-line description)* | JavaScript |
-| **[Mind-Forge](https://github.com/parmeetsingh1313n/Mind-Forge)** | *(one-line description)* | JavaScript |
-
----
+<!-- ══════════════════════ STATS ══════════════════════ -->
+## &nbsp;GitHub Analytics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=parmeetsingh1313n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Streak](https://streak-stats.demolab.com?user=parmeetsingh1313n&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parmeetsingh1313n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parmeetsingh1313n&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FF7&fire=FF2D95&currStreakLabel=00D9FF" alt="Streak stats" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmeetsingh1313n&theme=tokyo-night&hide_border=true&area=true)
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmeetsingh1313n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8&cache_seconds=7200" alt="Top languages" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=parmeetsingh1313n&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FF2D95&area=true&area_color=7B2FF7" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
+<!-- ══════════════════════ TROPHIES ══════════════════════ -->
+## &nbsp;Trophies
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=parmeetsingh1313n&color=00D9FF&style=flat-square)
+<img src="https://github-trophies.vercel.app/?username=parmeetsingh1313n&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
+
+---
+
+<!-- ══════════════════════ LEETCODE ══════════════════════ -->
+## &nbsp;LeetCode
+
+<div align="center">
+
+<img width="72%" src="https://leetcard.jacoblin.cool/parmeetsingh1313n?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode stats" />
+
+</div>
+
+---
+
+<!-- ══════════════════════ CONTRIBUTION GAMES ══════════════════════ -->
+## &nbsp;Contribution Games
+
+<div align="center">
+
+### 🐍 Snake eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parmeetsingh1313n/parmeetsingh1313n/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parmeetsingh1313n/parmeetsingh1313n/output/snake.svg" />
+  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/parmeetsingh1313n/parmeetsingh1313n/output/snake.svg" />
+</picture>
+
+<br/><br/>
+
+### 🎮 My contributions in 3D
+
+<img width="92%" src="https://raw.githubusercontent.com/parmeetsingh1313n/parmeetsingh1313n/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
+</div>
+
+---
+
+<!-- ══════════════════════ CONNECT ══════════════════════ -->
+## &nbsp;Let's Connect
+
+<div align="center">
+
+I'm open to **internships, full-time roles, and collaborations** on AI-powered products.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/parmeet-singh-13bb6931b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:parmeetsingh1313n@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/parmeetsingh1313n/">
+  <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+> *"Ship it, then make it fast."*
+
+<br/>
+
+⭐ **If you find my work useful, consider starring a repo — it genuinely helps.**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:7B2FF7,100:00D9FF&height=140&section=footer" />
