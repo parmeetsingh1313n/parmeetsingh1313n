@@ -96,7 +96,8 @@ Thin API routes enqueue work; **durable Inngest step-functions** do the minutes-
 
 `Next.js 16` `TypeScript` `Inngest` `Remotion` `Drizzle` `Clerk`
 
-[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://migoo-ai-describe-creates-ship.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)
 
 </td>
 <td width="50%" valign="top">
@@ -151,12 +152,14 @@ Ships with interactive ROC curves, confusion matrices and feature visualisations
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parmeetsingh1313n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parmeetsingh1313n&theme=tokyonight" alt="GitHub profile summary" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parmeetsingh1313n&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FF7&fire=FF2D95&currStreakLabel=00D9FF" alt="Streak stats" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmeetsingh1313n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8&cache_seconds=7200" alt="Top languages" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parmeetsingh1313n&theme=tokyonight" alt="Top languages by repo" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parmeetsingh1313n&theme=tokyonight" alt="Most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parmeetsingh1313n&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 
 <br/><br/>
 
