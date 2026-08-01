@@ -31,7 +31,7 @@
 <br/>
 
 <!-- ══════════════════════ ABOUT ══════════════════════ -->
-## &nbsp;About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2300D9FF&width=22" align="top" /> &nbsp;About Me
 
 I build **full-stack AI products** — Next.js on the front, durable job pipelines and multi-provider LLM orchestration behind it. Most of what I ship starts as *"can a model actually do this end to end?"* and turns into a working app.
 
@@ -46,18 +46,24 @@ const parmeet = {
 };
 ```
 
-- 🔭 &nbsp;Currently building **[Migoo](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)** — an AI video platform with five production modules, durable Inngest pipelines and Remotion rendering
-- 🧠 &nbsp;Interested in **agentic workflows, RAG, MCP tooling, and automated media pipelines**
-- 🤖 &nbsp;I build with **Claude Code** and **Antigravity** — agent-driven development is how I ship faster
-- 💬 &nbsp;Ask me about **Next.js, TypeScript, Python, or wiring LLMs into real products**
-- 🧩 &nbsp;Sharpening DSA daily on **[LeetCode](https://leetcode.com/u/parmeetsingh1313n/)**
-- 📫 &nbsp;Reach me at **parmeetsingh1313n@gmail.com**
-- ⚡ &nbsp;B.Tech (Hons) Computer Science & Engineering — GLA University
+<img src="https://api.iconify.design/lucide/telescope.svg?color=%2300D9FF&width=18" align="top" />&nbsp; Currently building **[Migoo](https://github.com/parmeetsingh1313n/Migoo.AI-Describe.Creates.Ship)** — an AI video platform with five production modules, durable Inngest pipelines and Remotion rendering
+
+<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%237B2FF7&width=18" align="top" />&nbsp; Interested in **agentic workflows, RAG, MCP tooling, and automated media pipelines**
+
+<img src="https://api.iconify.design/lucide/bot.svg?color=%23FF2D95&width=18" align="top" />&nbsp; I build with **Claude Code** and **Antigravity** — agent-driven development is how I ship faster
+
+<img src="https://api.iconify.design/lucide/message-square-code.svg?color=%2300D9FF&width=18" align="top" />&nbsp; Ask me about **Next.js, TypeScript, Python, or wiring LLMs into real products**
+
+<img src="https://api.iconify.design/lucide/puzzle.svg?color=%237B2FF7&width=18" align="top" />&nbsp; Sharpening DSA daily on **[LeetCode](https://leetcode.com/u/parmeetsingh1313n/)**
+
+<img src="https://api.iconify.design/lucide/mail.svg?color=%23FF2D95&width=18" align="top" />&nbsp; Reach me at **parmeetsingh1313n@gmail.com**
+
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300D9FF&width=18" align="top" />&nbsp; B.Tech (Hons) Computer Science & Engineering — GLA University
 
 ---
 
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
-## &nbsp;Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%237B2FF7&width=22" align="top" /> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -98,13 +104,13 @@ const parmeet = {
 ---
 
 <!-- ══════════════════════ PROJECTS ══════════════════════ -->
-## &nbsp;Featured Projects
+## <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%23FF2D95&width=22" align="top" /> &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Migoo — Describe It. AI Creates It. Ship It.
+### <img src="https://api.iconify.design/lucide/clapperboard.svg?color=%2300D9FF&width=22" align="top" /> &nbsp;Migoo — Describe It. AI Creates It. Ship It.
 
 A full-stack AI video-creation platform with **five production modules**: multi-chapter courses, faceless shorts, chat-driven motion graphics, AI study notes, and a director's-chair studio.
 
@@ -118,7 +124,7 @@ Thin API routes enqueue work; **durable Inngest step-functions** do the minutes-
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Talk2Hire — AI-Powered Recruiter
+### <img src="https://api.iconify.design/lucide/user-round-search.svg?color=%23FF2D95&width=22" align="top" /> &nbsp;Talk2Hire — AI-Powered Recruiter
 
 An end-to-end recruitment platform that runs **real-time AI interviews** with 3D avatars, parses candidate resumes, and auto-scores each interview.
 
@@ -134,7 +140,7 @@ Combines speech-to-text, LLM-driven questioning and automated evaluation into on
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Mind-Forge — AI Course Generator
+### <img src="https://api.iconify.design/lucide/book-open-check.svg?color=%237B2FF7&width=22" align="top" /> &nbsp;Mind-Forge — AI Course Generator
 
 Turns a topic, difficulty level and duration into a **fully chaptered course** — AI-generated outline and per-chapter content, matched YouTube lessons, and a publishable course page.
 
@@ -147,7 +153,7 @@ Includes auth, a course explorer, and Razorpay checkout for paid upgrades.
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Cancer Prediction
+### <img src="https://api.iconify.design/lucide/activity.svg?color=%2300D9FF&width=22" align="top" /> &nbsp;Cancer Prediction
 
 A **Streamlit** ML app that predicts breast-cancer diagnosis from cell-nucleus measurements using a decision-tree classifier.
 
@@ -164,7 +170,7 @@ Ships with interactive ROC curves, confusion matrices and feature visualisations
 ---
 
 <!-- ══════════════════════ STATS ══════════════════════ -->
-## &nbsp;GitHub Analytics
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2300D9FF&width=22" align="top" /> &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -186,7 +192,7 @@ Ships with interactive ROC curves, confusion matrices and feature visualisations
 ---
 
 <!-- ══════════════════════ TROPHIES ══════════════════════ -->
-## &nbsp;Trophies
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%237B2FF7&width=22" align="top" /> &nbsp;Trophies
 
 <div align="center">
 
@@ -197,7 +203,7 @@ Ships with interactive ROC curves, confusion matrices and feature visualisations
 ---
 
 <!-- ══════════════════════ LEETCODE ══════════════════════ -->
-## &nbsp;LeetCode
+## <img src="https://api.iconify.design/lucide/binary.svg?color=%23FF2D95&width=22" align="top" /> &nbsp;LeetCode
 
 <div align="center">
 
@@ -208,11 +214,11 @@ Ships with interactive ROC curves, confusion matrices and feature visualisations
 ---
 
 <!-- ══════════════════════ CONTRIBUTION GAMES ══════════════════════ -->
-## &nbsp;Contribution Games
+## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2300D9FF&width=22" align="top" /> &nbsp;Contribution Games
 
 <div align="center">
 
-### 🐍 Snake eating my contributions
+### <img src="https://api.iconify.design/lucide/worm.svg?color=%2300D9FF&width=20" align="top" /> &nbsp;Snake eating my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parmeetsingh1313n/parmeetsingh1313n/output/snake-dark.svg" />
@@ -222,7 +228,7 @@ Ships with interactive ROC curves, confusion matrices and feature visualisations
 
 <br/><br/>
 
-### 🎮 My contributions in 3D
+### <img src="https://api.iconify.design/lucide/box.svg?color=%237B2FF7&width=20" align="top" /> &nbsp;My contributions in 3D
 
 <img width="92%" src="https://raw.githubusercontent.com/parmeetsingh1313n/parmeetsingh1313n/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
@@ -231,7 +237,7 @@ Ships with interactive ROC curves, confusion matrices and feature visualisations
 ---
 
 <!-- ══════════════════════ CONNECT ══════════════════════ -->
-## &nbsp;Let's Connect
+## <img src="https://api.iconify.design/lucide/link.svg?color=%237B2FF7&width=22" align="top" /> &nbsp;Let's Connect
 
 <div align="center">
 
